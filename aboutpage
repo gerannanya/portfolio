@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.com/libraries/font-awesome">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Italianno&family=Parisienne&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <div class="navbar">
+            <div class="navlogo border">
+                <div class="logo"></div></div>
+            <div class="home border1"><a href="index.html">Home</a></div>
+            <div class="about border1"><a href="aboutpage">About</a></div>
+            <div class="contact border1"><a href="contactus">Contact Us</a></div>
+            <div class="name"><h1 class="headerheading">Annanya Gera Portfolios</h1></div>
+            </div>
+           
+        </div>
+    </header>
+    <center><div class="aboutpg"><h1 class="aboutheading">About Me</h1>
+    <img class="logoo" src="Pink Minimal Typography Logo .png" alt=""></div>
+    </center>
+    <section class="secabout">
+        <img class="img2" src="WhatsApp Image 2024-09-22 at 15.03.02.jpeg" alt=""><img class="img3" src="file.enc" alt="">
+        <p class="aboutpara">
+            From a young age, I have been captivated by two powerful forms of expression: poetry and music. These two art forms, though different in their mediums, share a profound ability to stir emotions, communicate experiences, and evoke deep reflection. Over time, they have become essential parts of my life, offering me both solace and a creative outlet for self-expression. Poetry and music, for me, are intertwined in the way they allow me to explore and understand the world.
+            Both poetry and music have taught me to embrace vulnerability and express myself in ways that are authentic. These art forms have allowed me to explore my identity, my emotions, and my perspective on the world. They’ve become more than hobbies; they are essential parts of who I am. My love for poetry and music is something that continues to evolve as I grow, deepening my understanding of both myself and the world around me.My goal is to merge my artistic interests with tech, creating meaningful and beautiful digital experiences.</p>
+      
+    </section>
+    

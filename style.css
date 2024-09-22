@@ -35,7 +35,16 @@ font-size: larger;
 justify-content: center;
 background-color: #e2877d;}
 .sectionheading{align-self: center; color: white; font-size: 40px; font-family:parisienne ; font-weight: 300; background-color:#e2877d;}
-.sec2{background-color: bisque;}
-img{height: 800px;width: 750px; margin: 20px; float:left}
-p{color: #98473e; font-family: A; font-size: 25px; padding-top:100px;font-weight:200 ;
+img{height:350px; width:300px}
+.img1{height: 800px;width: 750px; margin: 20px; float:left;}
+p{color: #98473e; font-family: A; font-size: 30px; padding-top:150px;font-weight:200 ;
 }
+.aboutheading{color:white;font-family:parisienne ; font-weight: 1000; text-decoration:underline 1.5px}
+.logoo{height:500px;width:500px;}
+.aboutpara{padding:10px;background-color: bisque;}
+.secabout{margin:25px;padding:25px;background-color: bisque;}
+.sec3{display: flex; justify-content: space-around;padding: 20px;}
+.img2{height:300px;float: left;}
+.img3{height:300px;float: right;}
+.contactusheading{color:white;font-family: parisienne;font-weight: 300;background-color:#e2877d}
+.cu{background-color: #EEACAA; text-decoration: underline;}
